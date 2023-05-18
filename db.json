@@ -1,188 +1,188 @@
 {
   "Riders": [
     {
-      "First Name": "Francesco",
-      "Last Name": "Bagnaia"
+      "First_Name": "Francesco",
+      "Last_Name": "Bagnaia"
     },
 	{
-      "First Name": "Johann",
-      "Last Name": "Zarco"
+      "First_Name": "Johann",
+      "Last_Name": "Zarco"
     },
 	{
-      "First Name": "Stefan",
-      "Last Name": "Bradl"
+      "First_Name": "Stefan",
+      "Last_Name": "Bradl"
     },
 	{
-      "First Name": "Danilo",
-      "Last Name": "Petrucci"
+      "First_Name": "Danilo",
+      "Last_Name": "Petrucci"
     },
 	{
-      "First Name": "Luca",
-      "Last Name": "Marini"
+      "First_Name": "Luca",
+      "Last_Name": "Marini"
     },
 	{
-      "First Name": "Maverick",
-      "Last Name": "Vinales"
+      "First_Name": "Maverick",
+      "Last_Name": "Vinales"
     },
 	{
-      "First Name": "Fabio",
-      "Last Name": "Quartararo"
+      "First_Name": "Fabio",
+      "Last_Name": "Quartararo"
     },
 	{
-      "First Name": "Franco",
-      "Last Name": "Morbidelli"
+      "First_Name": "Franco",
+      "Last_Name": "Morbidelli"
     },
 	{
-      "First Name": "Enea",
-      "Last Name": "Bastianini"
+      "First_Name": "Enea",
+      "Last_Name": "Bastianini"
     },
 	{
-      "First Name": "Raul",
-      "Last Name": "Fernandez"
+      "First_Name": "Raul",
+      "Last_Name": "Fernandez"
     },
 	{
-      "First Name": "Dani",
-      "Last Name": "Pedrosa"
+      "First_Name": "Dani",
+      "Last_Name": "Pedrosa"
     },
 	{
-      "First Name": "Iker",
-      "Last Name": "Lecuona"
+      "First_Name": "Iker",
+      "Last_Name": "Lecuona"
     },
 	{
-      "First Name": "Takaaki",
+      "First_Name": "Takaaki",
       "Last Name": "Nakagami"
     },
 	{
-      "First Name": "Lorenzo",
-      "Last Name": "Savadori"
+      "First_Name": "Lorenzo",
+      "Last_Name": "Savadori"
     },
 	{
-      "First Name": "Brad",
-      "Last Name": "Binder"
+      "First_Name": "Brad",
+      "Last_Name": "Binder"
     },
 	{
-      "First Name": "Joan",
-      "Last Name": "Mir"
+      "First_Name": "Joan",
+      "Last_Name": "Mir"
     },
 	{
-      "First Name": "Augusto",
-      "Last Name": "Fernandez"
+      "First_Name": "Augusto",
+      "Last_Name": "Fernandez"
     },
 	{
-      "First Name": "Aleix",
-      "Last Name": "Esparago"
+      "First_Name": "Aleix",
+      "Last_Name": "Esparago"
     },
 	{
-      "First Name": "Alex",
-      "Last Name": "Rins"
+      "First_Name": "Alex",
+      "Last_Name": "Rins"
     },
 	{
-      "First Name": "Jack",
-      "Last Name": "Miller"
+      "First_Name": "Jack",
+      "Last_Name": "Miller"
     },
 	{
-      "First Name": "Pol",
-      "Last Name": "Esparago"
+      "First_Name": "Pol",
+      "Last_Name": "Esparago"
     },
 	{
-      "First Name": "Fabio",
-      "Last Name": "Di Giannantonio"
+      "First_Name": "Fabio",
+      "Last_Name": "Di Giannantonio"
     },
 	{
-      "First Name": "Michele",
-      "Last Name": "Pirro"
+      "First_Name": "Michele",
+      "Last_Name": "Pirro"
     },
 	{
-      "First Name": "Marco",
-      "Last Name": "Bezzecchi"
+      "First_Name": "Marco",
+      "Last_Name": "Bezzecchi"
     },
 	{
-      "First Name": "Alex Marquez",
-      "Last Name": "Bagnaia"
+      "First_Name": "Alex Marquez",
+      "Last_Name": "Bagnaia"
     },
 	{
-      "First Name": "Miguel",
-      "Last Name": "Oliveira"
+      "First_Name": "Miguel",
+      "Last_Name": "Oliveira"
     },
 	{
-      "First Name": "Jorge",
-      "Last Name": "Martin"
+      "First_Name": "Jorge",
+      "Last_Name": "Martin"
     },
 	{
-      "First Name": "Marc",
-      "Last Name": "Marquez"
+      "First_Name": "Marc",
+      "Last_Name": "Marquez"
     },
 	{
-      "First Name": "Jonas",
-      "Last Name": "Folgar"
+      "First_Name": "Jonas",
+      "Last_Name": "Folgar"
     }
   ],
   "Teams": [
     {
       "Team Name": "Aprilia Racing",
-      "Rider 1": "Maverick Vinales",
-	  "Rider 2": "Aleix Esparago",
-	  "Rider 3": "Lorenzo Savadori"
+      "Rider1": "Maverick Vinales",
+	  "Rider2": "Aleix Esparago",
+	  "Rider3": "Lorenzo Savadori"
     },
 	{
       "Team Name": "CryptoDATA RNF MotoGP Team",
-      "Rider 1": "Miguel Oliveira",
-	  "Rider 2": "Raul Fernandez"
+      "Rider1": "Miguel Oliveira",
+	  "Rider2": "Raul Fernandez"
     },
 	{
       "Team Name": "Ducati Lenovo Team",
-      "Rider 1": "Francesco Bagnaia",
-	  "Rider 2": "Danilo Petrucci",
-	  "Rider 3": "Enea Bastianini",
-	  "Rider 4": "Michele Pirro"
+      "Rider1": "Francesco Bagnaia",
+	  "Rider2": "Danilo Petrucci",
+	  "Rider3": "Enea Bastianini",
+	  "Rider4": "Michele Pirro"
     },
 	{
       "Team Name": "GASGAS Factory Racing Tech3",
-      "Rider 1": "Augusto Fernandez",
-	  "Rider 2": "Pol Esparago",
-	  "Rider 3": "Jonas Folgar"
+      "Rider1": "Augusto Fernandez",
+	  "Rider2": "Pol Esparago",
+	  "Rider3": "Jonas Folgar"
     },
 	{
       "Team Name": "Gresini Racing Team",
-      "Rider 1": "Fabio Di Giannantonio",
-	  "Rider 2": "Alex Marquez"
+      "Rider1": "Fabio Di Giannantonio",
+	  "Rider2": "Alex Marquez"
     },
 	{
       "Team Name": "LCR Honda",
-      "Rider 1": "Takaaki Nakagami",
-	  "Rider 2": "Alex Rins"
+      "Rider1": "Takaaki Nakagami",
+	  "Rider2": "Alex Rins"
     },
 	{
       "Team Name": "Monster Energy Yamaha MotoGP",
-      "Rider 1": "Fabio Quartararo",
-	  "Rider 2": "Franco Morbidelli"
+      "Rider1": "Fabio Quartararo",
+	  "Rider2": "Franco Morbidelli"
     },
 	{
       "Team Name": "Mooney VR46 Racing Team",
-      "Rider 1": "Luca Marini",
-	  "Rider 2": "Marco Bezzecchi"
+      "Rider1": "Luca Marini",
+	  "Rider2": "Marco Bezzecchi"
     },
 	{
       "Team Name": "Prima Pramac Racing",
-      "Rider 1": "Johann Zarco",
-	  "Rider 2": "Jorge Martin"
+      "Rider1": "Johann Zarco",
+	  "Rider2": "Jorge Martin"
     },
 	{
       "Team Name": "Red Bull KTM Factory Racing",
-      "Rider 1": "Dani Pedrosa",
-	  "Rider 2": "Brad Binder",
-	  "Rider 3": "Jack Miller"
+      "Rider1": "Dani Pedrosa",
+	  "Rider2": "Brad Binder",
+	  "Rider3": "Jack Miller"
     },
 	{
       "Team Name": "Repsol Honda Team",
-      "Rider 1": "Stefan Bradl",
-	  "Rider 2": "Iker Lecuona",
-	  "Rider 3": "Joan Mir",
-	  "Rider 4": "Marc Marquez"
+      "Rider1": "Stefan Bradl",
+	  "Rider2": "Iker Lecuona",
+	  "Rider3": "Joan Mir",
+	  "Rider4": "Marc Marquez"
     },
 	{
       "Team Name": "HRC Test Team",
-      "Rider 1": "Stefan Bradl"
+      "Rider1": "Stefan Bradl"
     }
   ],
   "Circuits": [
