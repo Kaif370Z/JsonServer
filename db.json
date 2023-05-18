@@ -1,472 +1,472 @@
 {
   "Riders": [
     {
-      "First_Name": "Francesco",
+      "First_Name": "Francesco ",
       "Last_Name": "Bagnaia"
     },
 	{
-      "First_Name": "Johann",
+      "First_Name": "Johann ",
       "Last_Name": "Zarco"
     },
 	{
-      "First_Name": "Stefan",
+      "First_Name": "Stefan ",
       "Last_Name": "Bradl"
     },
 	{
-      "First_Name": "Danilo",
+      "First_Name": "Danilo ",
       "Last_Name": "Petrucci"
     },
 	{
-      "First_Name": "Luca",
+      "First_Name": "Luca ",
       "Last_Name": "Marini"
     },
 	{
-      "First_Name": "Maverick",
+      "First_Name": "Maverick ",
       "Last_Name": "Vinales"
     },
 	{
-      "First_Name": "Fabio",
+      "First_Name": "Fabio ",
       "Last_Name": "Quartararo"
     },
 	{
-      "First_Name": "Franco",
+      "First_Name": "Franco ",
       "Last_Name": "Morbidelli"
     },
 	{
-      "First_Name": "Enea",
+      "First_Name": "Enea ",
       "Last_Name": "Bastianini"
     },
 	{
-      "First_Name": "Raul",
+      "First_Name": "Raul ",
       "Last_Name": "Fernandez"
     },
 	{
-      "First_Name": "Dani",
+      "First_Name": "Dani ",
       "Last_Name": "Pedrosa"
     },
 	{
-      "First_Name": "Iker",
+      "First_Name": "Iker ",
       "Last_Name": "Lecuona"
     },
 	{
-      "First_Name": "Takaaki",
+      "First_Name": "Takaaki ",
       "Last Name": "Nakagami"
     },
 	{
-      "First_Name": "Lorenzo",
+      "First_Name": "Lorenzo ",
       "Last_Name": "Savadori"
     },
 	{
-      "First_Name": "Brad",
+      "First_Name": "Brad ",
       "Last_Name": "Binder"
     },
 	{
-      "First_Name": "Joan",
+      "First_Name": "Joan ",
       "Last_Name": "Mir"
     },
 	{
-      "First_Name": "Augusto",
+      "First_Name": "Augusto ",
       "Last_Name": "Fernandez"
     },
 	{
-      "First_Name": "Aleix",
+      "First_Name": "Aleix ",
       "Last_Name": "Esparago"
     },
 	{
-      "First_Name": "Alex",
+      "First_Name": "Alex ",
       "Last_Name": "Rins"
     },
 	{
-      "First_Name": "Jack",
+      "First_Name": "Jack ",
       "Last_Name": "Miller"
     },
 	{
-      "First_Name": "Pol",
+      "First_Name": "Pol ",
       "Last_Name": "Esparago"
     },
 	{
-      "First_Name": "Fabio",
+      "First_Name": "Fabio ",
       "Last_Name": "Di Giannantonio"
     },
 	{
-      "First_Name": "Michele",
+      "First_Name": "Michele ",
       "Last_Name": "Pirro"
     },
 	{
-      "First_Name": "Marco",
+      "First_Name": "Marco ",
       "Last_Name": "Bezzecchi"
     },
 	{
-      "First_Name": "Alex Marquez",
+      "First_Name": "Alex Marquez ",
       "Last_Name": "Bagnaia"
     },
 	{
-      "First_Name": "Miguel",
+      "First_Name": "Miguel ",
       "Last_Name": "Oliveira"
     },
 	{
-      "First_Name": "Jorge",
+      "First_Name": "Jorge ",
       "Last_Name": "Martin"
     },
 	{
-      "First_Name": "Marc",
+      "First_Name": "Marc ",
       "Last_Name": "Marquez"
     },
 	{
-      "First_Name": "Jonas",
+      "First_Name": "Jonas ",
       "Last_Name": "Folgar"
     }
   ],
   "Teams": [
     {
-      "TeamName": "Aprilia Racing",
-      "Rider1": "Maverick Vinales",
-	  "Rider2": "Aleix Esparago",
+      "TeamName": "Aprilia Racing ",
+      "Rider1": "Rider 1: Maverick Vinales ",
+	  "Rider2": "Rider 2: Aleix Esparago ",
 	  "Rider3": "Lorenzo Savadori"
     },
 	{
-      "TeamName": "CryptoDATA RNF MotoGP Team",
-      "Rider1": "Miguel Oliveira",
-	  "Rider2": "Raul Fernandez"
+      "TeamName": "CryptoDATA RNF MotoGP Team ",
+      "Rider1": "Rider 1: Miguel Oliveira ",
+	  "Rider2": "Rider 2: Raul Fernandez"
     },
 	{
-      "TeamName": "Ducati Lenovo Team",
-      "Rider1": "Francesco Bagnaia",
-	  "Rider2": "Danilo Petrucci",
-	  "Rider3": "Enea Bastianini",
+      "TeamName": "Ducati Lenovo Team ",
+      "Rider1": "Rider 1:Francesco Bagnaia ",
+	  "Rider2": "Rider 2: Enea Bastianini ",
+	  "Rider3": "Danilo Petrucci ",
 	  "Rider4": "Michele Pirro"
     },
 	{
-      "TeamName": "GASGAS Factory Racing Tech3",
-      "Rider1": "Augusto Fernandez",
-	  "Rider2": "Pol Esparago",
+      "TeamName": "GASGAS Factory Racing Tech3 ",
+      "Rider1": "Rider 1: Augusto Fernandez ",
+	  "Rider2": "Rider 2: Pol Esparago ",
 	  "Rider3": "Jonas Folgar"
     },
 	{
-      "TeamName": "Gresini Racing Team",
-      "Rider1": "Fabio Di Giannantonio",
-	  "Rider2": "Alex Marquez"
+      "TeamName": "Gresini Racing Team ",
+      "Rider1": "Rider 1: Fabio Di Giannantonio ",
+	  "Rider2": "Rider 2: Alex Marquez"
     },
 	{
-      "TeamName": "LCR Honda",
-      "Rider1": "Takaaki Nakagami",
-	  "Rider2": "Alex Rins"
+      "TeamName": "LCR Honda ",
+      "Rider1": "Rider 1: Takaaki Nakagami ",
+	  "Rider2": "Rider 2: Alex Rins"
     },
 	{
-      "TeamName": "Monster Energy Yamaha MotoGP",
-      "Rider1": "Fabio Quartararo",
-	  "Rider2": "Franco Morbidelli"
+      "TeamName": "Monster Energy Yamaha MotoGP ",
+      "Rider1": "Rider 1: Fabio Quartararo ",
+	  "Rider2": "Rider 2: Franco Morbidelli"
     },
 	{
-      "TeamName": "Mooney VR46 Racing Team",
-      "Rider1": "Luca Marini",
-	  "Rider2": "Marco Bezzecchi"
+      "TeamName": "Mooney VR46 Racing Team ",
+      "Rider1": "Rider 1: Luca Marini ",
+	  "Rider2": "Rider 2:Marco Bezzecchi"
     },
 	{
-      "TeamName": "Prima Pramac Racing",
-      "Rider1": "Johann Zarco",
-	  "Rider2": "Jorge Martin"
+      "TeamName": "Prima Pramac Racing ",
+      "Rider1": "Rider 1: Johann Zarco ",
+	  "Rider2": "Rider 2: Jorge Martin"
     },
 	{
-      "TeamName": "Red Bull KTM Factory Racing",
-      "Rider1": "Dani Pedrosa",
-	  "Rider2": "Brad Binder",
+      "TeamName": "Red Bull KTM Factory Racing ",
+      "Rider1": "Rider 1: Dani Pedrosa ",
+	  "Rider2": "Rider 2: Brad Binder ",
 	  "Rider3": "Jack Miller"
     },
 	{
-      "TeamName": "Repsol Honda Team",
-      "Rider1": "Stefan Bradl",
-	  "Rider2": "Iker Lecuona",
-	  "Rider3": "Joan Mir",
-	  "Rider4": "Marc Marquez"
+      "TeamName": "Repsol Honda Team ",
+      "Rider1": "Rider 1: Joan Mir ",
+	  "Rider2": "Rider 2: Marc Marquez ",
+	  "Rider3": "Stefan Bradl ",
+	  "Rider4": "Iker Lecuona"
     },
 	{
-      "TeamName": "HRC Test Team",
-      "Rider1": "Stefan Bradl"
+      "TeamName": "HRC Test Team ",
+      "Rider1": "Stefan Bradl "
     }
   ],
   "Circuits": [
   {
-    "Name": "Autódromo Internacional do Algarve",
-	"Country": "Portugal",
-	"Length": "4.6km",
+    "Name": "Autódromo Internacional do Algarve ",
+	"Country": "Portugal ",
+	"Length": "4.6km ",
 	"CircuitRecord": "1'37.226 by Marc Marquez"
   },
   {
-	"Name": "Termas de Río Hondo",
-	"Country": "Argentina",
-	"Length": "4.8km",
+	"Name": "Termas de Río Hondo ",
+	"Country": "Argentina ",
+	"Length": "4.8km ",
 	"CircuitRecord": "1'37.683 by Marc Marquez"
   },
   {
-	"Name": "Circuit of The Americas",
-	"Country": "America",
+	"Name": "Circuit of The Americas ",
+	"Country": "America ",
 	"Length": "",
 	"CircuitRecord": ""
   },
   {
-	"Name": "Circuito de Jerez - Ángel Nieto",
-	"Country": "Spain",
-	"Length": "4.4km",
+	"Name": "Circuito de Jerez - Ángel Nieto ",
+	"Country": "Spain ",
+	"Length": "4.4km ",
 	"CircuitRecord": "1'36.170 by Francesco Bagnaia"
   },
   {
-	"Name": "Le Mans",
-	"Country": "France",
-	"Length": "4.2km",
+	"Name": "Le Mans ",
+	"Country": "France ",
+	"Length": "4.2km ",
 	"CircuitRecord": "1'30.450 by Francesco Bagnaia"
   },
   {
-	"Name": "Autodromo Internazionale del Mugello",
-	"Country": "Italy",
-	"Length": "5.2km",
+	"Name": "Autodromo Internazionale del Mugello ",
+	"Country": "Italy ",
+	"Length": "5.2km ",
 	"CircuitRecord": "1'45.187 by Fabio Quartararo"
   },
   {
-	"Name": "Sachsenring",
-	"Country": "Germany",
-	"Length": "3.7km",
+	"Name": "Sachsenring ",
+	"Country": "Germany ",
+	"Length": "3.7km ",
 	"CircuitRecord": "1'19.765 by Francesco Bagnaia"
   },
   {
-	"Name": "TT Circuit Assen",
-	"Country": "Netherlands",
-	"Length": "4.5km",
+	"Name": "TT Circuit Assen ",
+	"Country": "Netherlands ",
+	"Length": "4.5km ",
 	"CircuitRecord": "1'31.504 by Francesco Bagnaia"
   },
   {
-	"Name": "Silverstone Circuit",
-	"Country": "Great Britain",
-	"Length": "5.9km",
+	"Name": "Silverstone Circuit ",
+	"Country": "Great Britain ",
+	"Length": "5.9km ",
 	"CircuitRecord": "1'57.767 by Johann Zarco"
   },
   {
-	"Name": "Red Bull Ring - Spielberg",
-	"Country": "Austria",
-	"Length": "4.3km",
+	"Name": "Red Bull Ring - Spielberg ",
+	"Country": "Austria ",
+	"Length": "4.3km ",
 	"CircuitRecord": "1'28.722 by Enea Bastianini"
   },
   {
-	"Name": "Circuit de Barcelona-Catalunya",
-	"Country": "Spain",
-	"Length": "4.7km",
+	"Name": "Circuit de Barcelona-Catalunya ",
+	"Country": "Spain ",
+	"Length": "4.7km ",
 	"CircuitRecord": "1'38.742 by Aleix Esparago"
   },
   {
-	"Name": "Misano World Circuit Marco Simoncelli",
-	"Country": "Italy",
-	"Length": "4.2km",
+	"Name": "Misano World Circuit Marco Simoncelli ",
+	"Country": "Italy ",
+	"Length": "4.2km ",
 	"CircuitRecord": "1'31.077 by Maverick Vinales"
   },
   {
-	"Name": "Buddh International Circuit",
-	"Country": "India",
-	"Length": "5.0km",
+	"Name": "Buddh International Circuit ",
+	"Country": "India ",
+	"Length": "5.0km ",
 	"CircuitRecord": "TBD"
   },
   {
-	"Name": "Mobility Resort Motegi",
-	"Country": "Japan",
-	"Length": "4.8km",
+	"Name": "Mobility Resort Motegi ",
+	"Country": "Japan ",
+	"Length": "4.8km ",
 	"CircuitRecord": "1'43.790 by Jorge Lorenzo"
   },
   {
-	"Name": "Pertamina Mandalika Circuit",
-	"Country": "Indonesia",
-	"Length": "4.3km",
+	"Name": "Pertamina Mandalika Circuit ",
+	"Country": "Indonesia ",
+	"Length": "4.3km ",
 	"CircuitRecord": "1'31.067 by Fabio Quartararo"
   },
   {
-	"Name": "Phillip Island",
-	"Country": " Austria",
-	"Length": "4.4km",
+	"Name": "Phillip Island ",
+	"Country": " Austria ",
+	"Length": "4.4km ",
 	"CircuitRecord": "1'27.767 by Jorge Martin"
   },
   {
-	"Name": "Chang International Circuit",
-	"Country": "Thailand",
-	"Length": "4.6km",
+	"Name": "Chang International Circuit ",
+	"Country": "Thailand ",
+	"Length": "4.6km ",
 	"CircuitRecord": "1'29.671 by Marco Bezzecchi"
   },
   {
-	"Name": "Sepang International Circuit",
-	"Country": "Malaysia",
-	"Length": "5.5km",
+	"Name": "Sepang International Circuit ",
+	"Country": "Malaysia ",
+	"Length": "5.5km ",
 	"CircuitRecord": "1'57.790 by Jorge Martin"
   },
   {
-	"Name": "Lusail International Circuit",
-	"Country": "Qatar",
-	"Length": "5.4km",
+	"Name": "Lusail International Circuit ",
+	"Country": "Qatar ",
+	"Length": "5.4km ",
 	"CircuitRecord": "1'52.772 by Francesco Bagnaia"
   },
   {
-	"Name": "Circuit Ricardo Tormo",
-	"Country": "Spain",
-	"Length": "4.0km",
+	"Name": "Circuit Ricardo Tormo ",
+	"Country": "Spain ",
+	"Length": "4.0km ",
 	"CircuitRecord": "Jorge Lorenzo"
   }
   ],
   "Standings": [
   {
 	  "Position": "1",
-	  "Points": "94",
+	  "Points": "(94 Points)",
 	  "Rider": "Francesco Bagnaia",
 	  "Team": "Ducati Lenovo Team"
   },
   {
 	  "Position": "2",
-	  "Points": "93",
+	  "Points": "(93 Points)",
 	  "Rider": "Marco Bezzecchi",
 	  "Team": "Mooney VR46 Racing Team"
   },
   {
 	  "Position": "3",
-	  "Points": "81",
+	  "Points": "(81 Points)",
 	  "Rider": "Brad Binder",
 	  "Team": "Red Bull KTM Factory Racing"
   },
   {
 	  "Position": "4",
-	  "Points": "80",
+	  "Points": "(80 Points)",
 	  "Rider": "Jorge Martin",
 	  "Team": "Prima Pramac Racing"
   },
   {
 	  "Position": "5",
-	  "Points": "66",
+	  "Points": "(66 Points)",
 	  "Rider": "Johann Zarco",
 	  "Team": "Prima Pramac Racing"
   },
   {
 	  "Position": "6",
-	  "Points": "54",
+	  "Points": "(54 Points)",
 	  "Rider": "Luca Marini",
 	  "Team": "Mooney VR46 Racing Team"
   },
   {
 	  "Position": "7",
-	  "Points": "49",
+	  "Points": "(49 Points)",
 	  "Rider": "Maverick Vinales",
 	  "Team": "Aprilia Racing"
   },
   {
 	  "Position": "8",
-	  "Points": "49",
+	  "Points": "(49 Points)",
 	  "Rider": "Jack Miller",
 	  "Team": "Red Bull KTM Factory Racing"
   },
   {
 	  "Position": "9",
-	  "Points": "49",
+	  "Points": "(49 Points)",
 	  "Rider": "Fabio Quartararo",
 	  "Team": "Monster Energy Yamaha MotoGP"
   },
   {
 	  "Position": "10",
-	  "Points": "47",
+	  "Points": "(47 Points)",
 	  "Rider": "Alex Rins",
 	  "Team": "LCR Honda CASTROL"
   },
   {
 	  "Position": "11",
-	  "Points": "42",
+	  "Points": "(42 points)",
 	  "Rider": "Aleix Esparago",
 	  "Team": "Aprilia Racing"
   },
   {
 	  "Position": "12",
-	  "Points": "41",
+	  "Points": "(41 Points)",
 	  "Rider": "Alex Marquez",
 	  "Team": "Gresini Racing MotoGP"
   },
   {
 	  "Position": "13",
-	  "Points": "40",
+	  "Points": "(40 Points)",
 	  "Rider": "Franco Morbidelli",
 	  "Team": "Monster Energy Yamaha MotoGP"
   },
   {
 	  "Position": "14",
-	  "Points": "30",
+	  "Points": "(30 Points)",
 	  "Rider": "Augusto Fernandez",
 	  "Team": "GASGAS Factory Racing Tech3"
   },
   {
 	  "Position": "15",
-	  "Points": "25",
+	  "Points": "(25 Points)",
 	  "Rider": "Fabio DI Giannantonio",
 	  "Team": "Gresini Racing MotoGP"
   },
   {
 	  "Position": "16",
-	  "Points": "21",
+	  "Points": "(21 Points)",
 	  "Rider": "Miguel Oliveira",
 	  "Team": "CryptoDATA RNF MotoGP Team"
   },
   {
 	  "Position": "17",
-	  "Points": "21",
+	  "Points": "(21 Points)",
 	  "Rider": "Takaaki Nakagami",
 	  "Team": "LCR Honda IDEMITSU"
   },
   {
 	  "Position": "18",
-	  "Points": "13",
+	  "Points": "(13 Points)",
 	  "Rider": "Dani Pedrosa",
 	  "Team": "Red Bull KTM Factory Racing"
   },
   {
 	  "Position": "19",
-	  "Points": "12",
+	  "Points": "(12 Points)",
 	  "Rider": "Marc Marquez",
 	  "Team": "Repsol Honda Team"
   },
   {
 	  "Position": "20",
-	  "Points": "7",
+	  "Points": "(7 Points)",
 	  "Rider": "Jonas Folgar",
 	  "Team": "GASGAS Factory Racing Tech3"
   },
   {
 	  "Position": "21",
-	  "Points": "5",
+	  "Points": "(5 Points)",
 	  "Rider": "Joan Mir",
 	  "Team": "Repsol Honda Team"
   },
   {
 	  "Position": "22",
-	  "Points": "5",
+	  "Points": "(5 Points)",
 	  "Rider": "Danilo Petrucci",
 	  "Team": "Ducati Lenovo Team"
   },
   {
 	  "Position": "23",
-	  "Points": "5",
+	  "Points": "(5 Points)",
 	  "Rider": "Michele Pirro",
 	  "Team": "Ducati Lenovo Team"
   },
   {
 	  "Position": "24",
-	  "Points": "4",
+	  "Points": "(4 Points)",
 	  "Rider": "Lorenzo Savadori",
 	  "Team": "CryptoDATA RNF MotoGP  Team"
   },
   {
 	  "Position": "25",
-	  "Points": "3",
+	  "Points": "(3 Points)",
 	  "Rider": "Raul Fernandez",
 	  "Team": "CryptoDATA RNF MotoGP Team"
   },
   {
 	  "Position": "26",
-	  "Points": "2",
+	  "Points": "(2 Points)",
 	  "Rider": "Stefan Bradl",
 	  "Team": "HRC Team"
   },
   {
 	  "Position": "27",
-	  "Points": "0",
+	  "Points": "(0 Points)",
 	  "Rider": "Iker Lecuona",
 	  "Team": "Repsol Honda Team"
   }
